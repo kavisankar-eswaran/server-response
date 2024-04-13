@@ -6,6 +6,7 @@ app.get('/server-response', (req, res) => {
 
     if (!pageLink) {
         return res.status(400).json({ error: 'Missing page-link query parameter' });
+        console.log('http request');
     }
 
     const https = require('https');

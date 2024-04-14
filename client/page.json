@@ -1,0 +1,22 @@
+{
+    "product": "gofrugal",
+    "page-list": [
+        {
+            "Title": "Homepage",
+            "Link": "https://www.gofrugal.com/distribution/"
+        },
+        {
+            "Title": "Homepage",
+            "Link": "https://www.gofrugal.com/retail/"
+        },
+        {
+            "Title": "Homepage",
+            "Link": "https://www.gofrugal.com/restaurant/"
+        },
+        {
+            "Title": "Homepage",
+            "Link": "https://www.gofrugal.com/"
+        }
+
+    ]
+}

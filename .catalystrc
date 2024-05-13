@@ -1,0 +1,65 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "3393000000009001",
+      "name": "http-response",
+      "domain": {
+        "id": "50018810936",
+        "name": "http-response-60028231086.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028231086",
+          "name": "Development",
+          "type": 3,
+          "env_status": "Active",
+          "project_details": {
+            "project_name": "http-response",
+            "id": "3393000000009001",
+            "project_type": "Live"
+          },
+          "is_default": false,
+          "migrated_services": {
+            "migrated_services": [],
+            "is_catalyst_migrated": false
+          },
+          "action_required": false
+        },
+        {
+          "idx": 2,
+          "id": "50018812598",
+          "name": "Production",
+          "type": 1,
+          "env_status": "Active",
+          "project_details": {
+            "project_name": "http-response",
+            "id": "3393000000009001",
+            "project_type": "Live"
+          },
+          "is_default": true,
+          "clone_env_id": "60028231086",
+          "migrated_services": {
+            "migrated_services": [
+              "Settings",
+              "Serverless",
+              "Cloud Scale"
+            ],
+            "is_catalyst_migrated": true
+          },
+          "action_required": false
+        }
+      ]
+    }
+  ]
+}

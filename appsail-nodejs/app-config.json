@@ -1,6 +1,6 @@
 {
 	"command": "node index.js",
-	"build_path": "/Users/kavi/Desktop/404-finder/appsail-nodejs",
+	"build_path": "/home/kavi-18738/Desktop/tools/server-response/appsail-nodejs",
 	"stack": "node16",
 	"env_variables": {},
 	"memory": 256,

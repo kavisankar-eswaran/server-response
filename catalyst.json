@@ -1,7 +1,7 @@
 {
   "appsail": [
     {
-      "source": "/home/kavi-18738/Desktop/tools/server-response/appsail-nodejs",
+      "source": "/var/www/server-response/appsail-nodejs",
       "name": "server-response"
     }
   ]
